@@ -1,4 +1,4 @@
-# <img src="imgs/banner.jpg" width="100%" />
+# <img src="imgs/banner.jpg" style="width:100%; height:200px; object-fit:cover;" />
 
 <p align="center">
   <a href="https://www.linkedin.com/in/armanwebdev1-ahmadpour-314aa230b/" target="_blank">
