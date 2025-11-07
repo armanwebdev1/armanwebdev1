@@ -1,4 +1,4 @@
-# <img src="imgs/banner.jpg"/>
+# <img src="imgs/banner.jpg" width="800" height="200" />
 
 <p align="center">
   <a href="https://www.linkedin.com/in/armanwebdev1-ahmadpour-314aa230b/" target="_blank">
@@ -14,7 +14,7 @@
 
 <br>
 
-<h2 align="center"><img src="imgs/title1.png" width="50"/> <em>About me</em></h2>
+<h2 align="center"><img src="imgs/title1.png" width="25"/> <em>About me</em></h2>
 
 <img src="imgs/globe.gif" width="250" align="right" style="margin-left: 20px;" />
 <br/>
