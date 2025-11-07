@@ -1,7 +1,7 @@
-# <img src="imgs/banner.jpg" style="width:100%; height:200px; object-fit:cover;" />
+# <img src="imgs/banner.jpg" style="max-width:100%; height:auto;" />
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/armanwebdev1-ahmadpour-314aa230b/" target="_blank">
+  <a href="https://www.linkedin.com/in/arman-ahmadpour-314aa230b/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://ahmadpour-portfolio.netlify.app" target="_blank">
